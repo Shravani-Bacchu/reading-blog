@@ -1,25 +1,14 @@
 ---
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
 import '../styles/global.css';
+const pageTitle = "Book Reviews";
 ---
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} >
-    <title>Readaily</title>
-  </head>
-  <body>
-    <h1>Reading-Blog</h1>
-    <Header />
+<BaseLayout pageTitle={pageTitle}>
+    <h1>Book-Reviews</h1>
     <p>View Book Reviews Here!</p>
     <ul>
     <li><a href="/posts/review-1/">Review 1</a></li>
     <li><a href="/posts/review-2/">Review 2</a></li>
     <li><a href="/posts/review-3/">Review 3</a></li>
     </ul>
-    <Footer />
-  </body>
-</html>
+</BaseLayout>

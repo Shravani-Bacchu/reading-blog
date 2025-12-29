@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Radio Silence Review'
 pubDate: 2025-12-28
 description: 'This is the first review in my new website'

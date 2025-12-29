@@ -1,28 +1,11 @@
 ---
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
 import '../styles/global.css';
-const pageTitle = "About Readly";
+const { pageTitle } = Astro.props;
+
 ---
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} >
-    <title>{pageTitle}</title>
-  </head>
-  <body>
-<Header />
-<h1>{pageTitle}</h1>
- <style>
-    h1 {
-      color: #3685B5;
-      font-size: 4rem;
-      }
-    </style>
-<p>Reading-Blog is a website where you can view reviews about books read !</p>
- <Footer />
-  </body>
-</html>
+<BaseLayout pageTitle={pageTitle}>
+  <h2>Welcome!</h2>
+  <p>Reading-Blog is a website where you can view reviews about books read!</p>
+</BaseLayout>
