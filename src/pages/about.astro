@@ -1,5 +1,5 @@
 ---
-
+const pageTitle = "About Readly";
 ---
 
 <html lang="en">
@@ -8,13 +8,19 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} >
-    <title>Readaily</title>
+    <title>{pageTitle}</title>
   </head>
   <body>
 <a href="/">Home</a>
 <a href="/about/">About</a>
 <a href="/blog/">Reviews</a>
-    <h1>Reading-Blog</h1>
-    <p>Reading-Blog is a website where you can view reviews about books read !</p>
+<h1>{pageTitle}</h1>
+ <style>
+    h1 {
+      color: #3685B5;
+      font-size: 4rem;
+      }
+    </style>
+<p>Reading-Blog is a website where you can view reviews about books read !</p>
   </body>
 </html>
