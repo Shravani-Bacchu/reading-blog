@@ -1,7 +1,8 @@
 ---
-
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
 ---
-
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -11,15 +12,14 @@
     <title>Readaily</title>
   </head>
   <body>
-<a href="/">Home</a>
-<a href="/about/">About</a>
-<a href="/blog/">Reviews</a>
     <h1>Reading-Blog</h1>
+    <Navigation />
     <p>View Book Reviews Here!</p>
     <ul>
     <li><a href="/posts/review-1/">Review 1</a></li>
     <li><a href="/posts/review-2/">Review 2</a></li>
     <li><a href="/posts/review-3/">Review 3</a></li>
     </ul>
+    <Footer />
   </body>
 </html>
