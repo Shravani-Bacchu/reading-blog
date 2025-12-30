@@ -1,16 +1,14 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import BlogPost from '../components/BlogPost.astro';
 import '../styles/global.css';
 const allPosts = Object.values(import.meta.glob('./posts/*.md', { eager: true }));
-
 const pageTitle = "Book Reviews";
 ---
 <BaseLayout pageTitle={pageTitle}>
     <h1>Book-Reviews</h1>
     <p>View Book Reviews Here!</p>
     <ul>
-    <li><a href="/posts/review-1/">Review 1</a></li>
-    <li><a href="/posts/review-2/">Review 2</a></li>
-    <li><a href="/posts/review-3/">Review 3</a></li>
+    {allPosts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
     </ul>
 </BaseLayout>
