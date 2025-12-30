@@ -1,16 +1,15 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Radio Silence Review'
+title: 'Caraval Book Review!'
 pubDate: 2025-12-28
-description: 'This is the first review in my new website'
-author: 'Shravani
 image:
-    url: 'https://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow.'
-tags: ["Romance", "Young Adult", "Fiction"]
+    url: 'https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1465563623i/27883214.jpg'
+    alt: 'The Caraval Book Cover'
+synopsis: 'Scarlett Dragna has never left the tiny island where she and her sister, Tella, live with their powerful, and cruel, father. Now Scarlett’s father has arranged a marriage for her, and Scarlett thinks her dreams of seeing Caraval—the faraway, once-a-year performance where the audience participates in the show—are over.But this year, Scarlett’s long-dreamt-of invitation finally arrives. With the help of a mysterious sailor, Tella whisks Scarlett away to the show. Only, as soon as they arrive, Tella is kidnapped by Caraval’s mastermind organizer, Legend. It turns out that this season’s Caraval revolves around Tella, and whoever finds her first is the winner.Scarlett has been told that everything that happens during Caraval is only an elaborate performance. Nevertheless she becomes enmeshed in a game of love, heartbreak, and magic. And whether Caraval is real or not, Scarlett must find Tella before the five nights of the game are over or a dangerous domino effect of consequences will be set off, and her beloved sister will disappear forever.Welcome, welcome to Caraval ... beware of getting swept too far away.'
+favourite_quote: “No one is truly honest,”“Even if we don't lie to others, we often lie to ourselves.And the word good means different things to different people.”
+tags: ["Romantasy", "Mystery", "Fiction"]
 ---
-# My First Book Review
+there is nothing quite like the amazement and sensational wonder of this book. i just wanted to crawl into the pages and spend the rest of my days enthralled by the enchanting magic of this story. i love stories that make me second guess what i know and think, and this captivated me from the first page. the stakes are high, unseen forces are in play, and the truth of everything is more hidden than the identity of caraval master legend himself. this was truly an experience, one i will want to read again and again.
+From the very first page up until the last, there was never a dull moment while reading Caraval. It was just an enigma wrapped in magic and deception. One minute you think you have the story and the characters all figured out, the next minute the storyline takes you on a completely different direction! There were just so many twists, turns, and puzzles that every page leaves you hanging at the edge of your seat.
 
-Published on: 2022-12-28
-
-Welcome to my _new review_ about Radio Silence! Here, I will share my thoughts on radio silence!
+Although Caraval didn't really feel like it took place in a circus/carnival like I was hoping it would, the world building was still very mystical. Clues and objects are paid in your deepest secrets, greatest fear, or even days of your life. There are tunnels that drive you mad and make you question what is real and what is simply part of the game. Caraval was just full of so many surprises that'll keep you turning the page. I had so many theories right from the very beginning that kept changing and evolving as the story progressed. I was so immersed in trying to crack the big mystery that was Caraval and Legend. This book will definitely leave you with more questions than answers in the end so prepare to be mind blown!
