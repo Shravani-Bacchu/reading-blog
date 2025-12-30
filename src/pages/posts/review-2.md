@@ -1,6 +1,10 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
 title: Scythe Book Review 
+book_title: Scythe
+book_author: Neal Shusterman 
+book_pub_date: 2016-11-22
+book_rating: '*****'
 synopsis: "Thou shalt kill.A world with no hunger, no disease, no war, no misery. Humanity has conquered all those things, and has even conquered death. Now scythes are the only ones who can end life—and they are commanded to do so, in order to keep the size of the population under control.Citra and Rowan are chosen to apprentice to a scythe—a role that neither wants. These teens must master the “art” of taking life, knowing that the consequence of failure could mean losing their own."
 favourite_quote: Humanity is innocent; humanity is guilty, and both states are undeniably true.
 image:

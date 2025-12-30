@@ -74,3 +74,14 @@ h1 {
     display: none;
   }
 }
+
+.grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 20px;
+  align-items: center;
+}
+
+.grid img {
+  width: 200px;
+}

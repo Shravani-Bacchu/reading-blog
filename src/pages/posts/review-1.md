@@ -2,10 +2,14 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Caraval Book Review!'
 pubDate: 2025-12-28
+book_title: Caraval
+book_author: Stephanie Garber
+book_pub_date: 2025-12-30
+book_rating: '****'
 image:
     url: 'https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1465563623i/27883214.jpg'
     alt: 'The Caraval Book Cover'
-synopsis: 'Scarlett Dragna has never left the tiny island where she and her sister, Tella, live with their powerful, and cruel, father. Now Scarlett’s father has arranged a marriage for her, and Scarlett thinks her dreams of seeing Caraval—the faraway, once-a-year performance where the audience participates in the show—are over.But this year, Scarlett’s long-dreamt-of invitation finally arrives. With the help of a mysterious sailor, Tella whisks Scarlett away to the show. Only, as soon as they arrive, Tella is kidnapped by Caraval’s mastermind organizer, Legend. It turns out that this season’s Caraval revolves around Tella, and whoever finds her first is the winner.Scarlett has been told that everything that happens during Caraval is only an elaborate performance. Nevertheless she becomes enmeshed in a game of love, heartbreak, and magic. And whether Caraval is real or not, Scarlett must find Tella before the five nights of the game are over or a dangerous domino effect of consequences will be set off, and her beloved sister will disappear forever.Welcome, welcome to Caraval ... beware of getting swept too far away.'
+synopsis: ' Caraval is an annual competition that Scarlett has been writing to the Master Legend to invite her to for seven years. After she gives up to marry the count her father has betrothed her to Legend sends her an invitation for the pair of them. She decides she doesn’t want to go but ends up there anyway- without her sister who vanishes as soon as they arrive. She’s immediately warned that whatever she sees isn’t real in the game she has to win to save her sister. Her grandmother has told her she was a winner and made it seem magical- whilst there is certainly that aspect to it Scarlett soon learns this isn’t a utopian place. In this world everything comes with a strange price: like telling three secrets you’ve never told anyone such as the thing you regret most.'
 favourite_quote: “No one is truly honest,”“Even if we don't lie to others, we often lie to ourselves.And the word good means different things to different people.”
 tags: ["Romantasy", "Mystery", "Fiction"]
 ---
