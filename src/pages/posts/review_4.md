@@ -11,7 +11,7 @@ image:
     alt: 'The HappyHead Book Cover'
 synopsis: 'When Seb is offered a place on a radical retreat designed to solve the national crisis of teenage unhappiness, he is determined to change how people see him and make his parents proud. But as he finds himself drawn to the enigmatic Finn, Seb starts to question the true nature of the challenges they must undergo. The deeper into the programme the boys get, the more disturbing the assessments become, until it’s clear there may be no escape.'
 favourite_quote: "I saw a generation of young people struggling against the world and systems that they found themselves within and controlled by."
-tags: ["Dystopian", "Thriller", "Science Fiction"]
+tags: ["Dystopian", "Thriller", "Science Fiction","Fiction"]
 ---
 We explore the idea that an epidemic of unhappiness has infiltrated the minds of the nation, particularly our young people. What if preventative measures could be taken to allow our young minds to be happy? Some sort of wellness retreat or boot camp? Enter HappyHead - the one thing that will make everything better. Tasks, assessments, and teamwork all combine to allow the students to be analysed, catergorised, and ultimately scored. It all seems fairly innocuous, if odd, until things begin to be cast in a strange shadow of doubt.
 

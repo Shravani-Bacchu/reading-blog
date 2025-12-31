@@ -11,7 +11,7 @@ image:
     alt: 'The Brave New World  Book Cover'
 synopsis: 'Brave New World is a dystopian social science fiction novel by English author Aldous Huxley. Largely set in a futuristic World State, whose citizens are environmentally engineered into an intelligence-based social hierarchy, the novel anticipates huge scientific advancements in reproductive technology, sleep-learning, psychological manipulation and classical conditioning that are combined to make a dystopian society which is challenged by only a single individual: the storys protagonist.'
 favourite_quote: ““Great is truth, but still greater, from a practical point of view, is silence about truth.”
-tags: ["Dystopian ", "Science Fiction", "Classics"]
+tags: ["Dystopian", "Science Fiction", "Classics","Fiction"]
 ---
 “But I don't want comfort. I want God, I want poetry, I want real danger, I want freedom, I want goodness. I want sin.”
 

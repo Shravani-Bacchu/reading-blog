@@ -11,7 +11,7 @@ image:
     url: "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1456172676i/28954189.jpg"
     alt: "The Scythe Book Cover"
 pubDate: 2025-12-28
-tags: ["Fantasy", "Romance", "Dystopian", "Fiction"]
+tags: ["Fantasy", "Romance","Fiction","Dystopian"]
 ---
 
 The world of Scythe is fascinating. With so many advances due to technology and research, it becomes a plausible future for our society which is equal parts interesting and terrifying. This story poses a lot of thought-provoking conversations about morality and mortality. It is by far one of the most complex and well-developed YA worlds I have experienced in a very long time. My brain was running wild throughout the entire story.
