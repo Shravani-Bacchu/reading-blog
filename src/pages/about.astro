@@ -6,6 +6,29 @@ const { pageTitle } = Astro.props;
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h2>Welcome!</h2>
-  <p>Reading-Blog is a website where you can view reviews about books read!</p>
+---
+---
+
+<h1>Book Search</h1>
+
+<input id="genre" placeholder="Enter genre" />
+<button id="searchBtn">Search</button>
+
+<div id="results"></div>
+
+<script>
+const button = document.getElementById("searchBtn");
+const results = document.getElementById("results");
+const input = document.getElementById("genre");
+
+if (button && results && input instanceof HTMLInputElement) {
+  button.addEventListener("click", async () => {
+    const genre = input.value;
+    const res = await fetch(`/api/books?genre=${genre}`);
+    const data = await res.json();
+
+    results.innerHTML = data.items.map((book: { volumeInfo: { title: any; }; }) => book.volumeInfo.title).join("<br>");
+  });
+}
+</script>
 </BaseLayout>
