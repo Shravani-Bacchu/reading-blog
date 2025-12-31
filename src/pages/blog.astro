@@ -6,7 +6,7 @@ const pageTitle = "Book Reviews"
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <p>This is where I will post my book Reviews</p>
+  <p>Book Reviews</p>
   <ul>
     {allPosts.map((post: any) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
   </ul>

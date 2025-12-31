@@ -1,5 +1,6 @@
 html {
   font-family: sans-serif;
+  background-color:#FFA9A3;
 }
 
 body {
@@ -43,7 +44,7 @@ h1 {
   font-size: 1.2rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: #392B58;
+  color: #522B47;
 }
 
 .nav-links a:hover,
@@ -86,7 +87,7 @@ h1 {
 }
 
 html.dark {
-  background-color: #0d0950;
+  background-color: #A30015;
   color: #fff;
 }
 
@@ -109,10 +110,14 @@ html.dark {
 }
 
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 500px;
-  margin: auto;
-  text-align: center;
-  font-family: arial;
+  padding: 1rem;
+  border-radius: 8px;
+  background: #FFA9A3;
 }
+
+.dark .card {
+  background: #A30015;
+}
+
+
 
