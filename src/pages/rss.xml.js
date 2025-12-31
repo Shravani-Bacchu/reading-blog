@@ -1,6 +1,6 @@
 import rss, { pagesGlobToRssItems } from '@astrojs/rss';
 
-export async function GET(context: { site: any; }) {
+export async function GET(context) {
   return rss({
     title: 'Astro Learner | Blog',
     description: 'My reading blog',
